@@ -9,7 +9,7 @@ This repository consists of:
 ```
 - map-reduce;
   - simple map-reduce tasks;
-  - actions with sets tasks;
+  - relational functions tasks;
   - tf-idf task;
 - graph:
   - bfs;

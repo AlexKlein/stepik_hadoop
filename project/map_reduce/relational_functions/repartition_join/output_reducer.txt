@@ -1,0 +1,5 @@
+user1	гугл	google.ru
+user2	стэпик	stepic.org
+user2	стэпик	stepic.org/explore/courses
+user2	стэпик курсы	stepic.org
+user2	стэпик курсы	stepic.org/explore/courses
